@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320.06894mm"
+   height="109.00068mm"
+   viewBox="0 0 320.06892 109.00068"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="explanation-discord-2.svg"
+   inkscape:export-filename="one-dimensional-grid.pdf"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.78127806"
+     inkscape:cx="-514.54152"
+     inkscape:cy="104.31625"
+     inkscape:window-width="3440"
+     inkscape:window-height="1417"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="320.06894"
+       height="109.00068"
+       id="page72"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="330.06894"
+       y="0"
+       width="320.06894"
+       height="109.00068"
+       id="page73"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="-195.70474"
+       y="-90.907303"
+       width="107.61449"
+       height="61.647915"
+       id="page74"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="-225.02397"
+       y="3.8452861"
+       width="150.83345"
+       height="81.756248"
+       id="page75"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="Paged 3.pdf"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.5466061,-109.07213)">
+    <g
+       id="g3"
+       transform="translate(-475.10376,-16.760173)">
+      <rect
+         x="288.94562"
+         y="34.924999"
+         width="107.61449"
+         height="61.647915"
+         fill="#fffff2"
+         id="rect1-2"
+         style="stroke-width:0.264583" />
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="39.158333"
+         dominant-baseline="hanging"
+         id="text3-8"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan1">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan2">body</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan3">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="44.185417"
+         dominant-baseline="hanging"
+         id="text14-2"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan4"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan5"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan6"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan7"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan8">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan9">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan10"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan11">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan12">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan13">&quot;content-parent&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan14">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="49.212502"
+         dominant-baseline="hanging"
+         id="text44-5"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan15"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan16"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan17"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan18"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan19"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan20"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan21"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan22"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan23">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan24">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan25"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan26">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan27">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan28">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan29">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan30">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan31">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan32">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan33">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan34"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan35">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan36">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan37">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan38">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan39">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan40">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan41">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan42">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan43">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan44">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="54.239582"
+         dominant-baseline="hanging"
+         id="text74-4"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan45"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan46"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan47"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan48"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan49"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan50"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan51-5"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan52-0"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan53-5">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan54-8">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan55"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan56">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan57">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan58">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan59">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan60">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan61">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan62">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan63">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan64"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan65">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan66">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan67">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan68">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan69">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan70-8">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan71-0">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan72-1">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan73-3">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan74-2">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="59.266666"
+         dominant-baseline="hanging"
+         id="text104-2"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan75-7"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan76"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan77"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan78"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan79"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan80"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan81"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan82"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan83">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan84">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan85"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan86">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan87">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan88">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan89">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan90">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan91">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan92-0">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan93-3">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan94-1"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan95-3">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan96">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan97">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan98">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan99">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan100">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan101">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan102">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan103">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan104">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="64.293747"
+         dominant-baseline="hanging"
+         id="text134-7"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan105"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan106"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan107"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan108"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan109"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan110"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan111"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan112"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan113">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan114">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan115"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan116">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan117">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan118">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan119">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan120">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan121">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan122">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan123">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan124"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan125">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan126">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan127">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan128">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan129">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan130">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan131">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan132">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan133">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan134">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="69.320831"
+         dominant-baseline="hanging"
+         id="text164-9"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan135"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan136"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan137"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan138"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan139"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan140"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan141"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan142"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan143">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan144">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan145"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan146">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan147">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan148">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan149">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan150">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan151">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan152">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan153">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan154"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan155">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan156">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan157">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan158">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan159">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan160">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan161">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan162">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan163">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan164">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="74.347916"
+         dominant-baseline="hanging"
+         id="text194-5"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan165"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan166"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan167"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan168"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan169"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan170"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan171"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan172"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan173">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan174">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan175"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan176">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan177">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan178">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan179">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan180">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan181">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan182">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan183">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan184"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan185">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan186">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan187">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan188">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan189">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan190">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan191">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan192">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan193">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan194">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="79.375"
+         dominant-baseline="hanging"
+         id="text224-3"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan195"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan196"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan197"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan198"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan199"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan200"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan201"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan202"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan203">&lt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan204">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan205"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#795e26;stroke-width:0.264583"
+           id="tspan206">class</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#777777;stroke-width:0.264583"
+           id="tspan207">=</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#448c27;stroke-width:0.264583"
+           id="tspan208">&quot;content-short&quot;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan209">&gt;</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan210">S</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan211">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan212">m</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan213">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan214"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan215">c</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan216">o</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan217">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan218">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan219">e</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan220">n</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan221">t</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan222">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan223">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan224">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="84.402084"
+         dominant-baseline="hanging"
+         id="text231-8"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan225"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan226"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan227"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#280064;stroke-width:0.264583"
+           id="tspan228"> </tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan229">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan230">div</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan231">&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         x="292.36459"
+         y="89.429169"
+         dominant-baseline="hanging"
+         id="text234-7"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583"><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan232">&lt;/</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#4b83cd;stroke-width:0.264583"
+           id="tspan233">body</tspan><tspan
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#91b3e0;stroke-width:0.264583"
+           id="tspan234">&gt;</tspan></text>
+    </g>
+    <g
+       id="g4"
+       transform="translate(-540.33172,-24.669971)">
+      <rect
+         x="324.85434"
+         y="137.58739"
+         width="150.83347"
+         height="81.756248"
+         fill="#fffff2"
+         id="rect1"
+         style="stroke-width:0.264583" />
+      <text
+         x="328.03271"
+         y="141.82071"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text2">.</text>
+      <text
+         x="330.00122"
+         y="141.82071"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#7a3e9d;stroke-width:0.264583"
+         id="text3">content-parent</text>
+      <text
+         x="357.56021"
+         y="141.82071"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text4"> </text>
+      <text
+         x="359.52872"
+         y="141.82071"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text5">{</text>
+      <text
+         x="328.03271"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text7"> </text>
+      <text
+         x="330.00122"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text8"> </text>
+      <text
+         x="331.96973"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text9">display</text>
+      <text
+         x="345.74924"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text10">:</text>
+      <text
+         x="347.71771"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text11"> </text>
+      <text
+         x="349.68622"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text12">flex</text>
+      <text
+         x="357.56021"
+         y="146.84779"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text13">;</text>
+      <text
+         x="328.03271"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text15"> </text>
+      <text
+         x="330.00122"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text16"> </text>
+      <text
+         x="331.96973"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text17">flex-wrap</text>
+      <text
+         x="349.68622"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text18">:</text>
+      <text
+         x="351.65472"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text19"> </text>
+      <text
+         x="353.62323"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text20">wrap</text>
+      <text
+         x="361.49722"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text21">;</text>
+      <text
+         x="363.46573"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text22"> </text>
+      <text
+         x="365.43423"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text23"> </text>
+      <text
+         x="367.40271"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text24"> </text>
+      <text
+         x="369.37122"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text25"> </text>
+      <text
+         x="371.33972"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text26"> </text>
+      <text
+         x="373.30823"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text27"> </text>
+      <text
+         x="375.27673"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text28"> </text>
+      <text
+         x="377.24521"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text29"> </text>
+      <text
+         x="379.21371"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text30"> </text>
+      <text
+         x="381.18222"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text31">/*</text>
+      <text
+         x="385.11923"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text32"> </text>
+      <text
+         x="387.08774"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text33">a</text>
+      <text
+         x="389.05621"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text34">l</text>
+      <text
+         x="391.02472"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text35">l</text>
+      <text
+         x="392.99323"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text36">o</text>
+      <text
+         x="394.96173"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text37">w</text>
+      <text
+         x="396.93021"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text38">s</text>
+      <text
+         x="398.89871"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text39"> </text>
+      <text
+         x="400.86722"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text40">c</text>
+      <text
+         x="402.83572"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text41">h</text>
+      <text
+         x="404.80423"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text42">i</text>
+      <text
+         x="406.77274"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text43">l</text>
+      <text
+         x="408.74121"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text44">d</text>
+      <text
+         x="410.70972"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text45">r</text>
+      <text
+         x="412.67822"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text46">e</text>
+      <text
+         x="414.64673"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text47">n</text>
+      <text
+         x="416.6152"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text48"> </text>
+      <text
+         x="418.58371"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text49">t</text>
+      <text
+         x="420.55222"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text50">o</text>
+      <text
+         x="422.52072"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text51-8"> </text>
+      <text
+         x="424.48923"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text52-2">w</text>
+      <text
+         x="426.45773"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text53-0">r</text>
+      <text
+         x="428.42621"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text54-5">a</text>
+      <text
+         x="430.39471"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text55">p</text>
+      <text
+         x="432.36322"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text56"> </text>
+      <text
+         x="434.33173"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text57">t</text>
+      <text
+         x="436.30023"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text58">o</text>
+      <text
+         x="438.26874"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text59"> </text>
+      <text
+         x="440.23721"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text60">t</text>
+      <text
+         x="442.20572"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text61">h</text>
+      <text
+         x="444.17422"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text62">e</text>
+      <text
+         x="446.14273"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text63"> </text>
+      <text
+         x="448.11121"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text64">n</text>
+      <text
+         x="450.07971"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text65">e</text>
+      <text
+         x="452.04822"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text66">x</text>
+      <text
+         x="454.01672"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text67">t</text>
+      <text
+         x="455.98523"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text68"> </text>
+      <text
+         x="457.9537"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text69">l</text>
+      <text
+         x="459.92221"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text70-5">i</text>
+      <text
+         x="461.89072"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text71-9">n</text>
+      <text
+         x="463.85922"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text72-3">e</text>
+      <text
+         x="465.82773"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text73-2"> </text>
+      <text
+         x="467.7962"
+         y="151.87486"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text74-8">*/</text>
+      <text
+         x="328.03271"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text76"> </text>
+      <text
+         x="330.00122"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text77"> </text>
+      <text
+         x="331.96973"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text78">justify-content</text>
+      <text
+         x="361.49722"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text79">:</text>
+      <text
+         x="363.46573"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text80"> </text>
+      <text
+         x="365.43423"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text81">start</text>
+      <text
+         x="375.27673"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text82">;</text>
+      <text
+         x="377.24521"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text83"> </text>
+      <text
+         x="379.21371"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text84"> </text>
+      <text
+         x="381.18222"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text85">/*</text>
+      <text
+         x="385.11923"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text86"> </text>
+      <text
+         x="387.08774"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text87">a</text>
+      <text
+         x="389.05621"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text88">l</text>
+      <text
+         x="391.02472"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text89">i</text>
+      <text
+         x="392.99323"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text90">g</text>
+      <text
+         x="394.96173"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text91">n</text>
+      <text
+         x="396.93021"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text92-4">s</text>
+      <text
+         x="398.89871"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text93-8"> </text>
+      <text
+         x="400.86722"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text94-1">i</text>
+      <text
+         x="402.83572"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text95-4">t</text>
+      <text
+         x="404.80423"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text96">e</text>
+      <text
+         x="406.77274"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text97">m</text>
+      <text
+         x="408.74121"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text98">s</text>
+      <text
+         x="410.70972"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text99"> </text>
+      <text
+         x="412.67822"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text100">t</text>
+      <text
+         x="414.64673"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text101">o</text>
+      <text
+         x="416.6152"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text102"> </text>
+      <text
+         x="418.58371"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text103">t</text>
+      <text
+         x="420.55222"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text104">h</text>
+      <text
+         x="422.52072"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text105">e</text>
+      <text
+         x="424.48923"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text106"> </text>
+      <text
+         x="426.45773"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text107">l</text>
+      <text
+         x="428.42621"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text108">e</text>
+      <text
+         x="430.39471"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text109">f</text>
+      <text
+         x="432.36322"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text110">t</text>
+      <text
+         x="434.33173"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text111"> </text>
+      <text
+         x="436.30023"
+         y="156.90195"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text112">*/</text>
+      <text
+         x="328.03271"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text114"> </text>
+      <text
+         x="330.00122"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text115"> </text>
+      <text
+         x="331.96973"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text116">gap</text>
+      <text
+         x="337.87521"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text117">:</text>
+      <text
+         x="339.84372"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text118"> </text>
+      <text
+         x="341.81223"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text119">1</text>
+      <text
+         x="343.78073"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text120">rem</text>
+      <text
+         x="349.68622"
+         y="161.92903"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text121">;</text>
+      <text
+         x="328.03271"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text123"> </text>
+      <text
+         x="330.00122"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text124"> </text>
+      <text
+         x="331.96973"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text125">max-width</text>
+      <text
+         x="349.68622"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text126">:</text>
+      <text
+         x="351.65472"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text127"> </text>
+      <text
+         x="353.62323"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text128">900px</text>
+      <text
+         x="363.46573"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text129">;</text>
+      <text
+         x="365.43423"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text130"> </text>
+      <text
+         x="367.40271"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text131"> </text>
+      <text
+         x="369.37122"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text132"> </text>
+      <text
+         x="371.33972"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text133"> </text>
+      <text
+         x="373.30823"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text134"> </text>
+      <text
+         x="375.27673"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text135"> </text>
+      <text
+         x="377.24521"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text136"> </text>
+      <text
+         x="379.21371"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text137"> </text>
+      <text
+         x="381.18222"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text138">/*</text>
+      <text
+         x="385.11923"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text139"> </text>
+      <text
+         x="387.08774"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text140">l</text>
+      <text
+         x="389.05621"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text141">i</text>
+      <text
+         x="391.02472"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text142">m</text>
+      <text
+         x="392.99323"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text143">i</text>
+      <text
+         x="394.96173"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text144">t</text>
+      <text
+         x="396.93021"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text145">s</text>
+      <text
+         x="398.89871"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text146"> </text>
+      <text
+         x="400.86722"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text147">h</text>
+      <text
+         x="402.83572"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text148">o</text>
+      <text
+         x="404.80423"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text149">w</text>
+      <text
+         x="406.77274"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text150"> </text>
+      <text
+         x="408.74121"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text151">m</text>
+      <text
+         x="410.70972"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text152">a</text>
+      <text
+         x="412.67822"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text153">n</text>
+      <text
+         x="414.64673"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text154">y</text>
+      <text
+         x="416.6152"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text155"> </text>
+      <text
+         x="418.58371"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text156">i</text>
+      <text
+         x="420.55222"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text157">t</text>
+      <text
+         x="422.52072"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text158">e</text>
+      <text
+         x="424.48923"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text159">m</text>
+      <text
+         x="426.45773"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text160">s</text>
+      <text
+         x="428.42621"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text161"> </text>
+      <text
+         x="430.39471"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text162">f</text>
+      <text
+         x="432.36322"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text163">i</text>
+      <text
+         x="434.33173"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text164">t</text>
+      <text
+         x="436.30023"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text165"> </text>
+      <text
+         x="438.26874"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text166">p</text>
+      <text
+         x="440.23721"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text167">e</text>
+      <text
+         x="442.20572"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text168">r</text>
+      <text
+         x="444.17422"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text169"> </text>
+      <text
+         x="446.14273"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text170">r</text>
+      <text
+         x="448.11121"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text171">o</text>
+      <text
+         x="450.07971"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text172">w</text>
+      <text
+         x="452.04822"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text173"> </text>
+      <text
+         x="454.01672"
+         y="166.95612"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text174">*/</text>
+      <text
+         x="328.03271"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text176"> </text>
+      <text
+         x="330.00122"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text177"> </text>
+      <text
+         x="331.96973"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text178">margin</text>
+      <text
+         x="343.78073"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text179">:</text>
+      <text
+         x="345.74924"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text180"> </text>
+      <text
+         x="347.71771"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text181">0</text>
+      <text
+         x="349.68622"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text182"> </text>
+      <text
+         x="351.65472"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text183">auto</text>
+      <text
+         x="359.52872"
+         y="171.9832"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text184">;</text>
+      <text
+         x="328.03271"
+         y="177.01028"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text186">}</text>
+      <text
+         x="328.03271"
+         y="187.06445"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text189">.</text>
+      <text
+         x="330.00122"
+         y="187.06445"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#7a3e9d;stroke-width:0.264583"
+         id="text190">content-short</text>
+      <text
+         x="355.59174"
+         y="187.06445"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text191"> </text>
+      <text
+         x="357.56021"
+         y="187.06445"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text192">{</text>
+      <text
+         x="328.03271"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text194"> </text>
+      <text
+         x="330.00122"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text195"> </text>
+      <text
+         x="331.96973"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text196">flex</text>
+      <text
+         x="339.84372"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text197">:</text>
+      <text
+         x="341.81223"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text198"> </text>
+      <text
+         x="343.78073"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text199">0</text>
+      <text
+         x="345.74924"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text200"> </text>
+      <text
+         x="347.71771"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text201">0</text>
+      <text
+         x="349.68622"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text202"> </text>
+      <text
+         x="351.65472"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text203">200px</text>
+      <text
+         x="361.49722"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text204">;</text>
+      <text
+         x="363.46573"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text205"> </text>
+      <text
+         x="365.43423"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text206"> </text>
+      <text
+         x="367.40271"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text207"> </text>
+      <text
+         x="369.37122"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text208"> </text>
+      <text
+         x="371.33972"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text209"> </text>
+      <text
+         x="373.30823"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text210"> </text>
+      <text
+         x="375.27673"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text211"> </text>
+      <text
+         x="377.24521"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text212"> </text>
+      <text
+         x="379.21371"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text213"> </text>
+      <text
+         x="381.18222"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text214">/*</text>
+      <text
+         x="385.11923"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text215"> </text>
+      <text
+         x="387.08774"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text216">f</text>
+      <text
+         x="389.05621"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text217">i</text>
+      <text
+         x="391.02472"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text218">x</text>
+      <text
+         x="392.99323"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text219">e</text>
+      <text
+         x="394.96173"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text220">d</text>
+      <text
+         x="396.93021"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text221"> </text>
+      <text
+         x="398.89871"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text222">w</text>
+      <text
+         x="400.86722"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text223">i</text>
+      <text
+         x="402.83572"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text224">d</text>
+      <text
+         x="404.80423"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text225">t</text>
+      <text
+         x="406.77274"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text226">h</text>
+      <text
+         x="408.74121"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text227"> </text>
+      <text
+         x="410.70972"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text228">f</text>
+      <text
+         x="412.67822"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text229">o</text>
+      <text
+         x="414.64673"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text230">r</text>
+      <text
+         x="416.6152"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text231"> </text>
+      <text
+         x="418.58371"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text232">e</text>
+      <text
+         x="420.55222"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text233">a</text>
+      <text
+         x="422.52072"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text234">c</text>
+      <text
+         x="424.48923"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text235">h</text>
+      <text
+         x="426.45773"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text236"> </text>
+      <text
+         x="428.42621"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text237">i</text>
+      <text
+         x="430.39471"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text238">t</text>
+      <text
+         x="432.36322"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text239">e</text>
+      <text
+         x="434.33173"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text240">m</text>
+      <text
+         x="436.30023"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text241"> </text>
+      <text
+         x="438.26874"
+         y="192.09154"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#aaaaaa;stroke-width:0.264583"
+         id="text242">*/</text>
+      <text
+         x="328.03271"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text244"> </text>
+      <text
+         x="330.00122"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text245"> </text>
+      <text
+         x="331.96973"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text246">height</text>
+      <text
+         x="343.78073"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text247">:</text>
+      <text
+         x="345.74924"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text248"> </text>
+      <text
+         x="347.71771"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text249">250px</text>
+      <text
+         x="357.56021"
+         y="197.11862"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text250">;</text>
+      <text
+         x="328.03271"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text252"> </text>
+      <text
+         x="330.00122"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text253"> </text>
+      <text
+         x="331.96973"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text254">background</text>
+      <text
+         x="351.65472"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text255">:</text>
+      <text
+         x="353.62323"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text256"> </text>
+      <rect
+         x="355.59174"
+         y="201.51071"
+         width="3.175"
+         height="3.175"
+         fill="#e66b5a"
+         id="rect256"
+         style="font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;stroke-width:0.264583" />
+      <text
+         x="359.56049"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#448c27;stroke-width:0.264583"
+         id="text257">#e66b5a</text>
+      <text
+         x="373.33997"
+         y="202.14571"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text258">;</text>
+      <text
+         x="328.03271"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text260"> </text>
+      <text
+         x="330.00122"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text261"> </text>
+      <text
+         x="331.96973"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text262">border-radius</text>
+      <text
+         x="357.56021"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text263">:</text>
+      <text
+         x="359.52872"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text264"> </text>
+      <text
+         x="361.49722"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#ab6526;stroke-width:0.264583"
+         id="text265">0.8</text>
+      <text
+         x="367.40271"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#280064;stroke-width:0.264583"
+         id="text266">rem</text>
+      <text
+         x="373.30823"
+         y="207.17279"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text267">;</text>
+      <text
+         x="328.03271"
+         y="212.19987"
+         dominant-baseline="hanging"
+         style="font-size:3.175px;font-family:'Clincher Mono';font-variant-ligatures:none;white-space:pre;fill:#777777;stroke-width:0.264583"
+         id="text269">}</text>
+    </g>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect18-9-0-8-1"
+       width="166.2847"
+       height="109.00067"
+       x="9.5466061"
+       y="109.07213"
+       ry="5.1298509"
+       rx="5.1298504"
+       inkscape:export-filename="content-overview-main-desktop.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.4111;stroke-dasharray:none"
+       id="rect57"
+       width="50.428333"
+       height="48.250999"
+       x="67.474953"
+       y="114.07212"
+       ry="2.8857293"
+       rx="2.8857296" />
+    <rect
+       style="fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect19-3-6-4-4-8"
+       width="50.428333"
+       height="48.251003"
+       x="14.546606"
+       y="114.07212"
+       ry="2.8857298"
+       rx="2.8857296" />
+    <rect
+       style="fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.4111;stroke-dasharray:none"
+       id="rect59"
+       width="50.428333"
+       height="48.250999"
+       x="120.40292"
+       y="114.07212"
+       ry="2.8857293"
+       rx="2.8857296" />
+    <rect
+       style="opacity:1;fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect69"
+       width="50.428333"
+       height="48.250332"
+       x="67.474953"
+       y="164.82246"
+       ry="2.8857296"
+       rx="2.8857296" />
+    <rect
+       style="opacity:1;fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect70"
+       width="50.428333"
+       height="48.250332"
+       x="14.546606"
+       y="164.82246"
+       ry="2.8857296"
+       rx="2.8857296" />
+    <rect
+       style="opacity:1;fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect72"
+       width="50.428333"
+       height="48.250332"
+       x="120.40292"
+       y="164.82246"
+       ry="2.8857296"
+       rx="2.8857296" />
+    <rect
+       style="opacity:0.5;fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect69-8"
+       width="50.428333"
+       height="48.250332"
+       x="226.25925"
+       y="114.07246"
+       ry="2.8857296"
+       rx="2.8857296" />
+    <rect
+       style="opacity:0.5;fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect70-2"
+       width="50.428333"
+       height="48.250332"
+       x="173.3309"
+       y="114.07246"
+       ry="2.8857296"
+       rx="2.8857296" />
+    <rect
+       style="opacity:0.5;fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+       id="rect72-4"
+       width="50.428333"
+       height="48.250332"
+       x="279.18723"
+       y="114.07246"
+       ry="2.8857296"
+       rx="2.8857296" />
+    <g
+       id="g269"
+       transform="translate(-192.35576,-25.985699)">
+      <g
+         id="g2"
+         transform="translate(-101.38383,-150.59245)">
+        <rect
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.41112;stroke-dasharray:none"
+           id="rect66-2-4-5"
+           width="60.428345"
+           height="98.301041"
+           x="229.62448"
+           y="145.59245"
+           ry="5.1298509"
+           rx="5.1298504" />
+        <rect
+           style="fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.4111;stroke-dasharray:none"
+           id="rect67-6-2-0"
+           width="50.428001"
+           height="42.900501"
+           x="234.62442"
+           y="150.59245"
+           ry="2.8857296"
+           rx="2.8857296" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:4.22487px;line-height:1;font-family:'Clincher Mono';-inkscape-font-specification:'Clincher Mono, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+           x="248.38681"
+           y="158.60054"
+           id="text92"><tspan
+             sodipodi:role="line"
+             id="tspan92"
+             x="248.38681"
+             y="158.60054"
+             style="fill:#ffffff;stroke-width:1.41111">ARTICLE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:4.22487px;line-height:1;font-family:'Clincher Mono';-inkscape-font-specification:'Clincher Mono, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+           x="256.51968"
+           y="166.59203"
+           id="text93"><tspan
+             sodipodi:role="line"
+             id="tspan93"
+             x="256.51968"
+             y="166.59203"
+             style="fill:#ffffff;stroke-width:1.41111">.CONTENT-SHORT</tspan></text>
+        <rect
+           style="fill:#f26956;fill-opacity:1;stroke:none;stroke-width:1.4111;stroke-dasharray:none"
+           id="rect93"
+           width="50.428001"
+           height="42.900501"
+           x="234.62442"
+           y="195.99294"
+           ry="2.8857296"
+           rx="2.8857296" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:4.22487px;line-height:1;font-family:'Clincher Mono';-inkscape-font-specification:'Clincher Mono, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+           x="248.38681"
+           y="204.00105"
+           id="text94"><tspan
+             sodipodi:role="line"
+             id="tspan94"
+             x="248.38681"
+             y="204.00105"
+             style="fill:#ffffff;stroke-width:1.41111">ARTICLE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:4.22487px;line-height:1;font-family:'Clincher Mono';-inkscape-font-specification:'Clincher Mono, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.41111;stroke-dasharray:none"
+           x="256.51968"
+           y="211.99254"
+           id="text95"><tspan
+             sodipodi:role="line"
+             id="tspan95"
+             x="256.51968"
+             y="211.99254"
+             style="fill:#ffffff;stroke-width:1.41111">.CONTENT-SHORT</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+         x="166.0918"
+         y="92.048889"
+         id="text268"><tspan
+           sodipodi:role="line"
+           id="tspan259"
+           style="stroke-width:1.217"
+           x="166.0918"
+           y="92.048889">PHONE</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="34.980904"
+       y="144.08479"
+       id="text51"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="34.980904"
+         y="144.08479">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="88.176842"
+       y="144.19553"
+       id="text52"><tspan
+         sodipodi:role="line"
+         id="tspan52"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="88.176842"
+         y="144.19553">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="141.26169"
+       y="144.08481"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="141.26169"
+         y="144.08481">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="194.06049"
+       y="144.08479"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="fill:#999999;stroke:none;stroke-width:0.264583"
+         x="194.06049"
+         y="144.08479">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="247.09955"
+       y="143.97406"
+       id="text70"><tspan
+         sodipodi:role="line"
+         id="tspan70"
+         style="fill:#999999;stroke:none;stroke-width:0.264583"
+         x="247.09955"
+         y="143.97406">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="299.74149"
+       y="144.08481"
+       id="text71"><tspan
+         sodipodi:role="line"
+         id="tspan71"
+         style="fill:#999999;stroke:none;stroke-width:0.264583"
+         x="299.74149"
+         y="144.08481">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="35.276184"
+       y="194.83479"
+       id="text54-1"><tspan
+         sodipodi:role="line"
+         id="tspan54-1"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="35.276184"
+         y="194.83479">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="88.315254"
+       y="194.72408"
+       id="text70-52"><tspan
+         sodipodi:role="line"
+         id="tspan70-7"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="88.315254"
+         y="194.72408">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.4551px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="140.95718"
+       y="194.83481"
+       id="text71-6"><tspan
+         sodipodi:role="line"
+         id="tspan71-1"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="140.95718"
+         y="194.83481">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       x="183.87704"
+       y="168.95474"
+       id="text72"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         style="fill:#000000;stroke-width:0.264583"
+         x="183.87704"
+         y="168.95474">Overflows to the next line</tspan></text>
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1.165;stroke-linecap:round;marker-end:url(#ArrowTriangleStylized);paint-order:fill markers stroke"
+       d="m 244.42128,172.0514 c -2.60961,13.63805 -13.76778,23.93832 -63.17835,19.30295"
+       id="path72"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

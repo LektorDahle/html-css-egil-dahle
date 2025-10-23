@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="207.56717mm"
+   height="204.64798mm"
+   viewBox="0 0 207.56717 204.64798"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="flexVsgrid.svg"
+   inkscape:export-filename="flexVsgrid.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.78127806"
+     inkscape:cx="67.837564"
+     inkscape:cy="448.62389"
+     inkscape:window-width="3440"
+     inkscape:window-height="1417"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.6888143,-26.650569)">
+    <path
+       d="m 9.821106,218.39236 h 95.178684 v -12.7739 H 9.821106 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path80" />
+    <path
+       d="m 104.99979,205.61846 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path81" />
+    <path
+       d="m 104.99979,218.39236 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path82" />
+    <path
+       d="m 104.99979,231.16626 v -12.7739 H 9.821106 v 12.7739 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path83" />
+    <path
+       d="m 9.821106,192.84431 h 95.178684 v -12.7739 H 9.821106 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path84" />
+    <path
+       d="m 104.99979,180.07041 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path85" />
+    <path
+       d="m 104.99979,192.84431 v 12.77389 h 112.1239 v -12.77389 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path86" />
+    <path
+       d="M 104.99979,205.6182 V 192.84431 H 9.821106 v 12.77389 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path87" />
+    <path
+       d="m 9.821106,167.29651 h 95.178684 v -12.7739 H 9.821106 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path88" />
+    <path
+       d="m 104.99979,154.52261 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path89" />
+    <path
+       d="m 104.99979,167.29651 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path90" />
+    <path
+       d="m 104.99979,180.07041 v -12.7739 H 9.821106 v 12.7739 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path91" />
+    <path
+       d="m 9.821106,141.74846 h 95.178684 v -12.7739 H 9.821106 Z"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path92" />
+    <path
+       d="m 104.99979,128.97456 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path93" />
+    <path
+       d="m 104.99979,141.74846 v 12.77389 h 112.1239 v -12.77389 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path94" />
+    <path
+       d="M 104.99979,154.52235 V 141.74846 H 9.821106 v 12.77389 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path95" />
+    <path
+       d="m 9.821106,116.20066 h 95.178684 v -12.7739 H 9.821106 Z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path57" />
+    <path
+       d="m 104.99979,103.42676 v 12.7739 h 112.1239 v -12.7739 z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path58" />
+    <path
+       d="M 9.821106,90.652607 H 104.99979 V 77.878709 H 9.821106 Z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path61" />
+    <path
+       d="m 104.99979,77.878709 v 12.773898 h 112.1239 V 77.878709 Z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path62" />
+    <path
+       d="M 104.99979,90.652607 V 103.4265 h 112.1239 V 90.652607 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path63" />
+    <path
+       d="M 104.99979,103.4265 V 90.652607 H 9.821106 V 103.4265 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path64" />
+    <path
+       d="M 9.821106,65.104812 H 104.99979 V 52.330914 H 9.821106 Z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path53" />
+    <path
+       d="m 104.99979,52.330914 v 12.773898 h 112.1239 V 52.330914 Z"
+       style="fill:#d5fff6;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path54" />
+    <path
+       d="m 104.99979,65.104812 v 12.773897 h 112.1239 V 65.104812 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path55" />
+    <path
+       d="M 104.99979,77.878709 V 65.104812 H 9.821106 v 12.773897 z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path56" />
+    <path
+       d="M 9.821106,39.556759 H 104.99979 V 26.782861 H 9.821106 Z"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path50" />
+    <path
+       d="m 104.99979,26.782861 v 12.773898 h 112.1239 V 26.782861 Z"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path49" />
+    <path
+       d="m 104.99979,39.556759 v 12.773897 h 112.1239 V 39.556759 Z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path52" />
+    <path
+       d="M 104.99979,52.330656 V 39.556759 H 9.821106 v 12.773897 z"
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;paint-order:fill markers stroke"
+       id="path51" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="14.052052"
+       y="32.519054"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke-width:1.217"
+         x="14.052052"
+         y="32.519054">Flexbox (1-Dimentional)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.839005"
+       y="80.810867"
+       id="text2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="80.810867"
+         id="tspan3" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="86.455307"
+         id="tspan4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="92.099747"
+         id="tspan5" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="97.744186"
+         id="tspan6" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="103.38863"
+         id="tspan7" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="109.03307"
+         id="tspan8">Content-based sizing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.872862"
+       y="45.230938"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="line-height:1;stroke-width:1.217"
+         x="16.872862"
+         y="45.230938">Perfect for components &amp; layouts in </tspan><tspan
+         sodipodi:role="line"
+         style="line-height:1;stroke-width:1.217"
+         x="16.872862"
+         y="50.875378"
+         id="tspan10">one direction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="57.937176"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="57.937176">Navigation bars and menus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.839005"
+       y="70.609535"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:1.217"
+         x="16.839005"
+         y="70.609535">Centering content</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="83.485123"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="83.485123">Equal-height cards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="96.259094"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="96.259094">Form controls and alignment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="107.06473"
+       y="32.519054"
+       id="text1-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="fill:#000000;stroke-width:1.217"
+         x="107.06473"
+         y="32.519054">CSS Grid (2-Dimentional)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.6767"
+       y="80.810867"
+       id="text2-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="80.810867"
+         id="tspan3-5" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="86.455307"
+         id="tspan4-5" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="92.099747"
+         id="tspan5-1" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="97.744186"
+         id="tspan6-7" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="103.38863"
+         id="tspan7-1" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="109.03307"
+         id="tspan8-1">Grid-based designs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.6767"
+       y="45.163208"
+       id="text9-5"><tspan
+         sodipodi:role="line"
+         style="line-height:1;stroke-width:1.217"
+         x="109.6767"
+         y="45.163208"
+         id="tspan10-7">Complex layouts with </tspan><tspan
+         sodipodi:role="line"
+         style="line-height:1;stroke-width:1.217"
+         x="109.6767"
+         y="50.807648"
+         id="tspan18">rows AND columns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="58.050056"
+       id="text11-6"><tspan
+         sodipodi:role="line"
+         id="tspan11-1"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="58.050056">Page layouts (header, sidebar, main, footer)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="70.711151"
+       id="text12-4"><tspan
+         sodipodi:role="line"
+         id="tspan12-2"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="70.711151">Image galleries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.6767"
+       y="83.552849"
+       id="text13-3"><tspan
+         sodipodi:role="line"
+         id="tspan13-2"
+         style="stroke-width:1.217"
+         x="109.6767"
+         y="83.552849">Card layouts with different sizes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="96.259094"
+       id="text14-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-1"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="96.259094">Magazine-style layouts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="14.22703"
+       y="134.51889"
+       id="text1-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-5"
+         style="fill:#000000;stroke-width:1.217"
+         x="14.22703"
+         y="134.51889">Choose Flexbox For:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="147.25336"
+       id="text9-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="147.25336"
+         id="tspan10-74">Navigation menus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="159.81284"
+       id="text11-2"><tspan
+         sodipodi:role="line"
+         id="tspan11-7"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="159.81284">Button groups</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="173.01578"
+       id="text12-7"><tspan
+         sodipodi:role="line"
+         id="tspan12-9"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="173.01578">Media objects (image + text)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.839005"
+       y="185.57527"
+       id="text13-31"><tspan
+         sodipodi:role="line"
+         id="tspan13-9"
+         style="stroke-width:1.217"
+         x="16.839005"
+         y="185.57527">Centering content</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="198.45085"
+       id="text14-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-6"
+         style="stroke-width:1.217"
+         x="16.624514"
+         y="198.45085">Distributing space between items</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="107.06473"
+       y="134.64308"
+       id="text1-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-0"
+         style="fill:#000000;stroke-width:1.217"
+         x="107.06473"
+         y="134.64308">Choose CSS Grid For:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="183.00262"
+       id="text2-4-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.4622"
+         y="183.00262"
+         id="tspan3-5-8" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.4622"
+         y="188.64706"
+         id="tspan4-5-6" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.4622"
+         y="194.2915"
+         id="tspan5-1-0" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.4622"
+         y="199.93594"
+         id="tspan6-7-2" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.4622"
+         y="205.58038"
+         id="tspan7-1-4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.4622"
+         y="211.22482"
+         id="tspan8-1-8">Responsive layouts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="147.35497"
+       id="text9-5-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="147.35497"
+         id="tspan10-7-5">Page layouts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="160.12894"
+       id="text11-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan11-1-9"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="160.12894">Image galleries<tspan
+   style="fill:#ff0000"
+   id="tspan16">*</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="172.90291"
+       id="text12-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan12-2-0"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="172.90291">Magazine layouts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.4622"
+       y="185.7446"
+       id="text13-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan13-2-1"
+         style="stroke-width:1.217"
+         x="109.4622"
+         y="185.7446">Dashboard interfaces</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.6767"
+       y="198.45085"
+       id="text14-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-1-8"
+         style="stroke-width:1.217"
+         x="109.6767"
+         y="198.45085">Complex card arrangements</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.624514"
+       y="183.00262"
+       id="text2-43"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.624514"
+         y="183.00262"
+         id="tspan3-1" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.624514"
+         y="188.64706"
+         id="tspan4-2" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.624514"
+         y="194.2915"
+         id="tspan5-3" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.624514"
+         y="199.93594"
+         id="tspan6-3" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.624514"
+         y="205.58038"
+         id="tspan7-4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.624514"
+         y="211.22482"
+         id="tspan8-11">Form control alignment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="16.839005"
+       y="195.7766"
+       id="text2-43-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="195.7766"
+         id="tspan3-1-8" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="201.42104"
+         id="tspan4-2-4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="207.06548"
+         id="tspan5-3-9" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="212.70992"
+         id="tspan6-3-6" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="218.35435"
+         id="tspan7-4-3" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="16.839005"
+         y="223.99879"
+         id="tspan8-11-7">Card components</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.64444px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="109.6767"
+       y="195.7766"
+       id="text2-43-13"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="195.7766"
+         id="tspan3-1-5" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="201.42104"
+         id="tspan4-2-9" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="207.06548"
+         id="tspan5-3-8" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="212.70992"
+         id="tspan6-3-4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="218.35435"
+         id="tspan7-4-0" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';stroke-width:1.217"
+         x="109.6767"
+         y="223.99879"
+         id="tspan8-11-76">Calendar layouts<tspan
+   style="fill:#ff0000"
+   id="tspan17">*</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.5;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.217;stroke-linecap:round;paint-order:fill markers stroke"
+       x="176.60834"
+       y="242.47661"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#ff0000;stroke-width:1.217"
+         x="176.60834"
+         y="242.47661" /></text>
+  </g>
+</svg>
