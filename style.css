@@ -7,13 +7,6 @@
     padding: 0;
 }
 
-html,
-body {
-    height: 100%;
-    width: 100%;
-    font-size: 24px;
-}
-
 /* End of reset */
 
 /* Setting variables */
@@ -31,6 +24,7 @@ body {
     --font-paragraph-weight: 400;
     --font-paragraph-style: normal;
     --bg-tint-color-light: #fffdeda7;
+    font-size: clamp(0.8em, 22vw, 1.2em);
 }
 
 /* Defining basics for typography */
@@ -92,10 +86,12 @@ p {
 }
 
 /* End of the typography */
+
 body {
+    height: 100dvh;
     background-color: var(--background-color-light);
     display: grid;
-    grid-template-rows: 180px auto 180px;
+    grid-template-rows: auto 1fr auto;
 }
 
 header {
@@ -131,11 +127,12 @@ header::after {
     display: flex;
     z-index: 2;
     height: 100%;
-    padding: 10px;
+    padding: 0.85em;
 }
 
 .logo-wrapper>img {
-    height: 90%;
+    height: clamp(6rem, 22vw, 10rem);
+    padding: 1em;
 }
 
 
@@ -152,12 +149,12 @@ ul {
     display: flex;
     padding: 0;
     margin: 0;
-    gap: 50px;
+    gap: 5rem;
 }
 
 
 .light-dark-switch-wrapper {
-    padding: 10px;
+    padding: 5rem;
 }
 
 
@@ -189,7 +186,7 @@ main>article>p {
     background: var(--main-cta);
     padding: 1rem;
     color: var(--background-color-light);
-    border-radius: 15px;
+    border-radius: 1rem;
     border: none;
 }
 
@@ -200,7 +197,7 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-footer>article {
+footer>div {
     height: 100%;
     text-align: center;
     align-content: center;
@@ -213,4 +210,9 @@ footer>article {
     flex-direction: column;
     text-align: center;
     align-content: center;
+}
+
+.logo-footer>img {
+    height: clamp(6rem, 22vw, 10rem);
+    padding: 1em;
 }
