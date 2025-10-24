@@ -29,7 +29,8 @@
 
 /* Defining basics for typography */
 h1 {
-    font-size: 3.05rem;
+    font-size: 1.56rem;
+    /*3.05rem; */
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
@@ -83,20 +84,21 @@ p {
     font-weight: var(--font-paragraph-weight);
     font-style: var(--font-paragraph-style);
     color: var(--text-color-light);
+    margin: 2em 0;
+    line-height: 1.5;
 }
 
 /* End of the typography */
 
 body {
     height: 100dvh;
-    background-color: var(--background-color-light);
+    width: 100vw;
     display: grid;
     grid-template-rows: auto 1fr auto;
+    background-color: var(--background-color-light);
 }
 
 header {
-    width: 100%;
-    height: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -107,7 +109,7 @@ header {
 /* Making the dividing line between the header and main */
 /* this is annoying, I could do this in typescript in 5 minutes */
 /* but had to fight ChatGPT (and myself) for an adequat answer */
-header::after {
+/*header::after {
     z-index: 0;
     content: "";
     position: absolute;
@@ -121,24 +123,24 @@ header::after {
     pointer-events: none;
     background-position: right 100%;
     bottom: -23px;
-}
+}*/
 
 .logo-wrapper {
     display: flex;
-    z-index: 2;
+    /*z-index: 2;*/
     height: 100%;
-    padding: 0.85em;
+    /*padding: 0.85em;*/
 }
+
 
 .logo-wrapper>img {
-    height: clamp(6rem, 22vw, 10rem);
-    padding: 1em;
+    height: clamp(5rem, 22vw, 8rem);
+    padding: .5em 1.5em;
 }
 
-
 .nav-wrapper {
-    padding: 1rem;
-    z-index: 2;
+    padding: 1rem 0;
+    /*z-index: 2;*/
     height: 100%;
     display: flex;
     align-items: flex-end;
@@ -154,7 +156,7 @@ ul {
 
 
 .light-dark-switch-wrapper {
-    padding: 5rem;
+    padding: 1em;
 }
 
 
@@ -168,13 +170,19 @@ main {
 }
 
 main>article {
-    margin: 5rem 20rem;
-    padding: 7rem;
+    margin: clamp(1em, 10vw, 5em) clamp(.2em, 5vw, 20em);
+    padding: clamp(0.2em, 10vw, 7em);
     background: color-mix(in srgb, var(--background-color-light), transparent 50%);
 }
 
-main>article>p {
-    margin: 2rem 0;
+@media screen and (width >=1500px) {
+
+    /* Exagerating the padding and margin for wider screens */
+    main>article {
+        margin: clamp(1em, 10vw, 5em) clamp(.2em, 30vw, 30em);
+        padding: clamp(0.2em, 10vw, 7em) clamp(0.2em, 30vw, 15em);
+    }
+
 }
 
 .button-wrapper-right {
@@ -184,24 +192,43 @@ main>article>p {
 
 .button-wrapper-right>button {
     background: var(--main-cta);
-    padding: 1rem;
+    padding: 1em;
     color: var(--background-color-light);
-    border-radius: 1rem;
+    border-radius: 1em;
     border: none;
 }
 
 footer {
     width: 100%;
     background: var(--footer-bg-light);
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-text {
+    width: 30%;
+    padding: 0 4em;
+}
+
+@media screen and (width <=900px) {
+
+    /* Removing the in the footer for smaller screen-sizes */
+    .footer-text {
+        display: none;
+    }
+
+    footer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
 footer>div {
     height: 100%;
     text-align: center;
     align-content: center;
-    width: 70%;
 }
 
 .logo-footer {
@@ -213,6 +240,6 @@ footer>div {
 }
 
 .logo-footer>img {
-    height: clamp(6rem, 22vw, 10rem);
-    padding: 1em;
+    height: clamp(6rem, 20vw, 7rem);
+    padding: .5em;
 }
