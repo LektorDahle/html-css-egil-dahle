@@ -92,13 +92,13 @@ p {
 
 body {
     height: 100dvh;
-    width: 100vw;
     display: grid;
     grid-template-rows: auto 1fr auto;
     background-color: var(--background-color-light);
 }
 
 header {
+    width: 100vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -154,14 +154,35 @@ ul {
     gap: 5rem;
 }
 
+li>a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: .75em 1.5em;
+    font-size: 1.25rem;
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color-light);
+    text-decoration: none;
+}
+
+li>a img {
+    display: block;
+    height: 1.2em;
+}
 
 .light-dark-switch-wrapper {
     padding: 1em;
 }
 
+.hamburger-menu {
+    display: none;
+}
+
 
 main {
-    width: 100%;
+    width: 100vw;
     background: var(--background-color-light);
     background-image: linear-gradient(var(--bg-tint-color-light)), url('./images/background/background.webp');
     background-repeat: no-repeat;
@@ -175,15 +196,6 @@ main>article {
     background: color-mix(in srgb, var(--background-color-light), transparent 50%);
 }
 
-@media screen and (width >=1500px) {
-
-    /* Exagerating the padding and margin for wider screens */
-    main>article {
-        margin: clamp(1em, 10vw, 5em) clamp(.2em, 30vw, 30em);
-        padding: clamp(0.2em, 10vw, 7em) clamp(0.2em, 30vw, 15em);
-    }
-
-}
 
 .button-wrapper-right {
     display: flex;
@@ -199,7 +211,7 @@ main>article {
 }
 
 footer {
-    width: 100%;
+    width: 100vw;
     background: var(--footer-bg-light);
     display: flex;
     justify-content: space-between;
@@ -210,20 +222,6 @@ footer {
     padding: 0 4em;
 }
 
-@media screen and (width <=900px) {
-
-    /* Removing the in the footer for smaller screen-sizes */
-    .footer-text {
-        display: none;
-    }
-
-    footer {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }
-
-}
 
 footer>div {
     height: 100%;
@@ -242,4 +240,43 @@ footer>div {
 .logo-footer>img {
     height: clamp(6rem, 20vw, 7rem);
     padding: .5em;
+}
+
+@media screen and (width >=1500px) {
+
+    /* Exagerating the padding and margin for wider screens */
+    main>article {
+        margin: clamp(1em, 10vw, 5em) clamp(.2em, 30vw, 30em);
+        padding: clamp(0.2em, 10vw, 7em) clamp(0.2em, 30vw, 15em);
+    }
+
+}
+
+@media screen and (width <=900px) {
+
+    /* Removing the in the footer for smaller screen-sizes */
+    .footer-text {
+        display: none;
+    }
+
+    footer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    /* Removing the dark-light switch for smaller screen-sizes 
+       and moving the nav to a hamburger menu  */
+    .nav-wrapper {
+        display: none
+    }
+
+    .light-dark-switch-wrapper {
+        display: none;
+    }
+
+    .hamburger-menu {
+        display: inline;
+    }
+
 }
