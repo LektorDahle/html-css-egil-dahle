@@ -25,6 +25,34 @@
     --font-paragraph-style: normal;
     --bg-tint-color-light: #fffdeda7;
     font-size: clamp(0.8em, 22vw, 1.2em);
+
+    color-scheme: light dark;
+    --text-color-dark: #e8f0f2;
+  --background-color-dark: #0b1416;
+  --footer-bg-dark: #202a2e;
+  --bg-tint-color-dark: #0b141680;
+
+  --text-color: var(--text-color-light);
+  --background-color: var(--background-color-light);
+  --footer-bg: var(--footer-bg-light);
+  --bg-tint-color: var(--bg-tint-color-light);
+}
+
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: var(--text-color-dark);
+    --background-color: var(--background-color-dark);
+    --footer-bg: var(--footer-bg-dark);
+    --bg-tint-color: var(--bg-tint-color-dark);
+  }
+}
+
+:root:has(#theme-toggle:checked) {
+  --text-color: var(--text-color-dark);
+  --background-color: var(--background-color-dark);
+  --footer-bg: var(--footer-bg-dark);
+  --bg-tint-color: var(--bg-tint-color-dark);
 }
 
 /* Defining basics for typography */
@@ -34,7 +62,7 @@ h1 {
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
 }
 
 h2 {
@@ -42,7 +70,7 @@ h2 {
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
 }
 
 h3 {
@@ -50,7 +78,7 @@ h3 {
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
 }
 
 h4 {
@@ -58,7 +86,7 @@ h4 {
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
 }
 
 h5,
@@ -67,7 +95,7 @@ button {
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
 }
 
 h6 {
@@ -75,7 +103,7 @@ h6 {
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
 }
 
 p {
@@ -83,7 +111,7 @@ p {
     font-family: var(--font-paragraph);
     font-weight: var(--font-paragraph-weight);
     font-style: var(--font-paragraph-style);
-    color: var(--text-color-light);
+    color: var(--text-color);
     margin: 2em 0;
     line-height: 1.5;
 }
@@ -201,7 +229,7 @@ li>a img {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: var(--text-color-light);
+    background-color: var(--text-color);
     border-radius: .5em;
     -webkit-transition: .4s;
     transition: .4s;
