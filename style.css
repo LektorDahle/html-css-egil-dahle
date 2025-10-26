@@ -174,7 +174,62 @@ li>a img {
 
 .light-dark-switch-wrapper {
     padding: 1em;
+    display: flex;
+    gap: .5em;
+    justify-content: center;
+    align-items: center;
 }
+
+
+.theme-switch {
+    position: relative;
+    display: inline-block;
+    width: 5em;
+    height: 2em;
+}
+
+.theme-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--text-color-light);
+    border-radius: .5em;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 1.6em;
+    width: 1.6em;
+    left: 0.2em;
+    bottom: 0.2em;
+    background-color: var(--bg-tint-color-light);
+    border-radius: .4em;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(3em);
+    -ms-transform: translateX(3em);
+    transform: translateX(3em);
+}
+
 
 .hamburger-menu {
     display: none;
