@@ -12,10 +12,11 @@ header {
     /*z-index: 2;*/
     height: 100%;
     /*padding: 0.85em;*/
+    width: auto;
 }
 
 
-.logo-wrapper>img {
+.logo-wrapper>svg {
     height: clamp(5rem, 22vw, 8rem);
     padding: .5em 1.5em;
 }
@@ -58,6 +59,7 @@ li>a img {
 }
 
 .light-dark-switch-wrapper {
+    user-select: none;
     padding: 1em;
     display: flex;
     gap: .5em;
@@ -141,4 +143,3 @@ input:checked+.slider:before {
     background-position: right 100%;
     bottom: -23px;
 }*/
-
