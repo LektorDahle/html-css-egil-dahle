@@ -1,0 +1,105 @@
+:root {
+    --text-color-light: #0a3641;
+    --background-color-light: #fffded;
+    --main-cta: #f72c25;
+    --secondary-cta: #ffb17a;
+    --footer-bg-light: #fce762;
+    --button-padding: 10px 20px;
+    --font-header: "Barlow Condensed", sans-serif;
+    --font-header-weight: 600;
+    --font-header-style: normal;
+    --font-paragraph: "Source Sans 3", sans-serif;
+    --font-paragraph-weight: 400;
+    --font-paragraph-style: normal;
+    --bg-tint-color-light: #fffdeda7;
+    font-size: clamp(0.8em, 22vw, 1.2em);
+
+    color-scheme: light dark;
+    --text-color-dark: #e8f0f2;
+    --background-color-dark: #0b1416;
+    --footer-bg-dark: #202a2e;
+    --bg-tint-color-dark: #0b141680;
+
+    --text-color: var(--text-color-light);
+    --background-color: var(--background-color-light);
+    --footer-bg: var(--footer-bg-light);
+    --bg-tint-color: var(--bg-tint-color-light);
+}
+
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: var(--text-color-dark);
+        --background-color: var(--background-color-dark);
+        --footer-bg: var(--footer-bg-dark);
+        --bg-tint-color: var(--bg-tint-color-dark);
+    }
+}
+
+:root:has(#theme-toggle:checked) {
+    --text-color: var(--text-color-dark);
+    --background-color: var(--background-color-dark);
+    --footer-bg: var(--footer-bg-dark);
+    --bg-tint-color: var(--bg-tint-color-dark);
+}
+
+/* Defining basics for typography */
+h1 {
+    font-size: 1.56rem;
+    /*3.05rem; */
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color);
+}
+
+h2 {
+    font-size: 2.44rem;
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color);
+}
+
+h3 {
+    font-size: 1.95rem;
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color);
+}
+
+h4 {
+    font-size: 1.56rem;
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color);
+}
+
+h5,
+button {
+    font-size: 1.25rem;
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color);
+}
+
+h6 {
+    font-size: 0.8rem;
+    font-family: var(--font-header);
+    font-weight: var(--font-header-weight);
+    font-style: var(--font-header-style);
+    color: var(--text-color);
+}
+
+p {
+    font-size: 1rem;
+    font-family: var(--font-paragraph);
+    font-weight: var(--font-paragraph-weight);
+    font-style: var(--font-paragraph-style);
+    color: var(--text-color);
+    margin: 2em 0;
+    line-height: 1.5;
+}

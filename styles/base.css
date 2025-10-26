@@ -1,0 +1,68 @@
+/* Simple CSS Reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* End of reset */
+
+/* Setting variables */
+
+
+/* End of the typography */
+
+body {
+    height: 100dvh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    background-color: var(--background-color-light);
+}
+
+
+
+
+
+
+
+
+@media screen and (width >=1280px) {
+
+    /* Exagerating the padding and margin for wider screens */
+    main>article {
+        margin: clamp(1em, 10vw, 5em) clamp(.2em, 30vw, 10em);
+        padding: clamp(0.2em, 8vw, 3em) clamp(0.2em, 30vw, 10em);
+    }
+}
+
+
+@media screen and (width <=1280px) {
+
+    /* Removing the in the footer for smaller screen-sizes */
+    .footer-text {
+        display: none;
+    }
+
+    footer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    /* Removing the dark-light switch for smaller screen-sizes 
+       and moving the nav to a hamburger menu  */
+    .nav-wrapper {
+        display: none
+    }
+
+    .light-dark-switch-wrapper {
+        display: none;
+    }
+
+    .hamburger-menu {
+        display: inline;
+    }
+
+}
