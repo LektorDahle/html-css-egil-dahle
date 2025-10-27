@@ -18,10 +18,10 @@ main>article {
     flex-direction: row-reverse;
 }
 
-.button-wrapper-right>button {
+.button-wrapper-right>a {
     background: var(--main-cta);
     padding: 1em;
-    color: var(--background-color);
+    color: var(--text-color);
     border-radius: 1em;
     border: none;
 }

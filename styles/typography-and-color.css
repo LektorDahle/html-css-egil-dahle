@@ -51,12 +51,14 @@ h1 {
 }
 
 h2,
-button {
+button,
+a {
     font-size: 1.25rem;
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
     color: var(--text-color);
+    text-decoration: none;
 }
 
 h6 {
