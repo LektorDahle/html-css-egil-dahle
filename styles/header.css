@@ -103,7 +103,7 @@ li>a svg {
 }
 
 input:checked+.slider {
-    background-color: #2196F3;
+    background-color: var(--text-color);
 }
 
 input:checked+.slider:before {
@@ -113,9 +113,15 @@ input:checked+.slider:before {
 }
 
 
-.hamburger-menu {
+#hamburger-menu {
     display: none;
 }
+
+#hamburger-menu>svg {
+    display: block;
+    height: 3em;
+}
+
 
 
 

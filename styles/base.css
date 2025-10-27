@@ -61,7 +61,7 @@ body {
         display: none;
     }
 
-    .hamburger-menu {
+    #hamburger-menu {
         display: inline;
     }
 
