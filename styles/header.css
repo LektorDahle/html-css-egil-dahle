@@ -6,6 +6,7 @@ header {
     align-items: center;
     background: var(--background-color);
     padding: 1em 1.5em;
+    z-index: 10;
 }
 
 .logo-wrapper {
@@ -118,24 +119,26 @@ input:checked+.slider:before {
     height: 3em;
 }
 
-#hamburger-menu>input{
-  position:absolute;
-  inset:0;
-  opacity:0;
-  cursor:pointer;
-  appearance:none;
+#hamburger-menu>input {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+    appearance: none;
 }
 
 :root:has(#navigation-menu-wrapper:checked) {
-    ul {
+    .nav-wrapper>ul {
         position: absolute;
-        top: 8em;
-        left: 0;
-        right: 100vw;
+        width: max-content;
+        min-width: 20em;
+        top: 100%;
+        right: -3em;
         bottom: 0;
-        background: var(--background-color);
+        background: red;
         display: flex;
         flex-direction: column;
+        /*z-index: 3*/
     }
 }
 
