@@ -1,29 +1,24 @@
 header {
+    position: relative;
     width: 100vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative;
     background: var(--background-color);
+    padding: 1em 1.5em;
 }
 
 .logo-wrapper {
     display: flex;
-    /*z-index: 2;*/
     height: 100%;
-    /*padding: 0.85em;*/
     width: auto;
 }
 
-
 .logo-wrapper>svg {
     height: clamp(5rem, 22vw, 8rem);
-    padding: .5em 1.5em;
 }
 
 .nav-wrapper {
-    padding: 1rem 0;
-    /*z-index: 2;*/
     height: 100%;
     width: 100%;
     display: flex;
@@ -35,7 +30,7 @@ ul {
     list-style: none;
     display: flex;
     width: min(100%, 1200px);
-    padding: 0 2em;
+    padding: 0;
     margin: 0;
     justify-content: space-between;
 }
@@ -115,6 +110,7 @@ input:checked+.slider:before {
 
 #hamburger-menu {
     display: none;
+    position: relative;
 }
 
 #hamburger-menu>svg {
@@ -122,7 +118,26 @@ input:checked+.slider:before {
     height: 3em;
 }
 
+#hamburger-menu>input{
+  position:absolute;
+  inset:0;
+  opacity:0;
+  cursor:pointer;
+  appearance:none;
+}
 
+:root:has(#navigation-menu-wrapper:checked) {
+    ul {
+        position: absolute;
+        top: 8em;
+        left: 0;
+        right: 100vw;
+        bottom: 0;
+        background: var(--background-color);
+        display: flex;
+        flex-direction: column;
+    }
+}
 
 
 /* Making the dividing line between the header and main */

@@ -53,7 +53,7 @@ body {
 
     /* Removing the dark-light switch for smaller screen-sizes 
        and moving the nav to a hamburger menu  */
-    .nav-wrapper {
+    .nav-wrapper>ul {
         display: none
     }
 
@@ -62,7 +62,8 @@ body {
     }
 
     #hamburger-menu {
-        display: inline;
+        display: block;
+        margin-left: auto;
     }
 
 }
