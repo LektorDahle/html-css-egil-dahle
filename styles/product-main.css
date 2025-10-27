@@ -1,0 +1,39 @@
+body {
+    grid-template-areas:
+        "header header"
+        "aside main"
+        "footer footer";
+    grid-template-columns: calc(300px + 2em) 1fr;
+}
+
+header {
+    grid-area: header;
+}
+
+aside {
+    grid-area: aside;
+    position: relative;
+    padding: 1em 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3em;
+    flex-wrap: wrap;
+    overflow: auto;
+    background: var(--text-color);
+    scrollbar-width: none;
+}
+
+aside>h1 {
+    color: var(--background-color);
+}
+
+main {
+    grid-area: main;
+    width: auto;
+    padding: 2em;
+}
+
+footer {
+    grid-area: footer;
+}
