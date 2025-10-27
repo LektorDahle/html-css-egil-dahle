@@ -1,7 +1,7 @@
 main {
     width: 100vw;
-    background: var(--background-color-light);
-    background-image: linear-gradient(var(--bg-tint-color-light)), url('../images/background/background.webp');
+    background: var(--background-color);
+    background-image: linear-gradient(var(--bg-tint-color)), url('../images/background/background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -12,7 +12,7 @@ main {
 main>article {
     margin: clamp(1em, 10vw, 5em) clamp(.2em, 5vw, 20em);
     padding: clamp(0.2em, 10vw, 7em);
-    background: color-mix(in srgb, var(--background-color-light), transparent 50%);
+    background: color-mix(in srgb, var(--background-color), transparent 50%);
 }
 
 
@@ -24,7 +24,7 @@ main>article {
 .button-wrapper-right>button {
     background: var(--main-cta);
     padding: 1em;
-    color: var(--background-color-light);
+    color: var(--background-color);
     border-radius: 1em;
     border: none;
 }

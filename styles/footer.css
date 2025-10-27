@@ -1,6 +1,6 @@
 footer {
     width: 100vw;
-    background: var(--footer-bg-light);
+    background: var(--footer-bg);
     display: flex;
     justify-content: space-between;
 }

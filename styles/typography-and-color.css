@@ -15,9 +15,9 @@
     font-size: clamp(0.8em, 22vw, 1.2em);
 
     color-scheme: light dark;
-    --text-color-dark: #e8f0f2;
-    --background-color-dark: #0b1416;
-    --footer-bg-dark: #202a2e;
+    --text-color-dark: #e8fdff;
+    --background-color-dark: #0a1d24;
+    --footer-bg-dark: #c7a473;
     --bg-tint-color-dark: #0b141680;
 
     --text-color: var(--text-color-light);
@@ -46,38 +46,13 @@
 /* Defining basics for typography */
 h1 {
     font-size: 1.56rem;
-    /*3.05rem; */
     font-family: var(--font-header);
     font-weight: var(--font-header-weight);
     font-style: var(--font-header-style);
     color: var(--text-color);
 }
 
-h2 {
-    font-size: 2.44rem;
-    font-family: var(--font-header);
-    font-weight: var(--font-header-weight);
-    font-style: var(--font-header-style);
-    color: var(--text-color);
-}
-
-h3 {
-    font-size: 1.95rem;
-    font-family: var(--font-header);
-    font-weight: var(--font-header-weight);
-    font-style: var(--font-header-style);
-    color: var(--text-color);
-}
-
-h4 {
-    font-size: 1.56rem;
-    font-family: var(--font-header);
-    font-weight: var(--font-header-weight);
-    font-style: var(--font-header-style);
-    color: var(--text-color);
-}
-
-h5,
+h2,
 button {
     font-size: 1.25rem;
     font-family: var(--font-header);
