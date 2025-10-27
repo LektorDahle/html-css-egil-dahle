@@ -7,26 +7,12 @@
     padding: 0;
 }
 
-/* End of reset */
-
-/* Setting variables */
-
-
-/* End of the typography */
-
 body {
     height: 100dvh;
     display: grid;
     grid-template-rows: auto 1fr auto;
     background-color: var(--background-color);
 }
-
-
-
-
-
-
-
 
 @media screen and (width >=1280px) {
 
@@ -36,7 +22,6 @@ body {
         padding: clamp(0.2em, 8vw, 3em) clamp(0.2em, 30vw, 10em);
     }
 }
-
 
 @media screen and (width <=1280px) {
 

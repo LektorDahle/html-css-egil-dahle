@@ -5,12 +5,10 @@ footer {
     justify-content: space-between;
 }
 
-
 .footer-text {
     width: 30%;
     padding: 0 4em;
 }
-
 
 footer>div {
     height: 100%;

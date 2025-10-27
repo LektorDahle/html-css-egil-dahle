@@ -1,4 +1,5 @@
 :root {
+    font-size: clamp(0.8em, 5vw, 1.2em);
     --text-color-light: #0a3641;
     --background-color-light: #fffded;
     --main-cta: #f72c25;
@@ -12,7 +13,6 @@
     --font-paragraph-weight: 400;
     --font-paragraph-style: normal;
     --bg-tint-color-light: #fffdeda7;
-    font-size: clamp(0.8em, 22vw, 1.2em);
 
     color-scheme: light dark;
     --text-color-dark: #e8fdff;
@@ -25,7 +25,6 @@
     --footer-bg: var(--footer-bg-light);
     --bg-tint-color: var(--bg-tint-color-light);
 }
-
 
 @media (prefers-color-scheme: dark) {
     :root {
@@ -43,7 +42,6 @@
     --bg-tint-color: var(--bg-tint-color-dark);
 }
 
-/* Defining basics for typography */
 h1 {
     font-size: 1.56rem;
     font-family: var(--font-header);

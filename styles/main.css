@@ -7,14 +7,11 @@ main {
     background-position: top center;
 }
 
-
-
 main>article {
     margin: clamp(1em, 10vw, 5em) clamp(.2em, 5vw, 20em);
     padding: clamp(0.2em, 10vw, 7em);
     background: color-mix(in srgb, var(--background-color), transparent 50%);
 }
-
 
 .button-wrapper-right {
     display: flex;
