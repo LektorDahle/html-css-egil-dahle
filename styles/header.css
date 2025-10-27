@@ -147,23 +147,13 @@ input:checked+.slider:before {
     }
 }
 
+.logo-wrapper .logo {
+    display: block;
+    text-decoration: none;
+    line-height: 0;
+}
 
-/* Making the dividing line between the header and main */
-/* this is annoying, I could do this in typescript in 5 minutes */
-/* but had to fight ChatGPT (and myself) for an adequat answer */
-/* Might remove this later, or go back to see if I  can make it work the way I want it to */
-/*header::after {
-    z-index: 0;
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 100vh;
-    background-image: url("./images/background/transition-line.svg");
-    background-repeat: no-repeat;
-    background-size: calc(max(1600px, 100%) + 20px) auto;
-    pointer-events: none;
-    background-position: right 100%;
-    bottom: -23px;
-}*/
+.logo-wrapper .logo svg {
+    display: block;
+    height: clamp(5rem, 22vw, 8rem);
+}
