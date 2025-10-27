@@ -51,7 +51,7 @@ main {
     border: none;
 }
 
-.content-short>button:hover{
+.content-short>button:hover {
     background: var(--secondary-cta);
     color: var(--background-color);
 }

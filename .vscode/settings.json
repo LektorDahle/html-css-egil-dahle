@@ -1,0 +1,5 @@
+{
+  "html.format.unformatted": "svg",
+  "html.format.wrapLineLength": 10000,
+  "editor.maxTokenizationLineLength": 200000
+}
