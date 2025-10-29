@@ -11,9 +11,8 @@ body {
         "header header"
         "aside main"
         "footer footer";
-    grid-template-columns: calc(300px + 2em) 1fr;
+    grid-template-columns: calc(300px + 6em) 1fr;
 }
-
 
 aside {
     grid-area: aside;
@@ -41,24 +40,52 @@ main {
     grid-template-areas:
         "img-wrapper product-summary"
         "button-wrapper button-wrapper";
-    grid-template-rows: 1fr auto;
-    grid-template-columns: auto auto;
-}
-
-
-.img-wrapper {
-    position: relative;
-    grid-area: img-wrapper;
+    grid-template-rows: auto auto;
+    grid-template-columns: 300px auto;
 }
 
 .product-summary {
     grid-area: product-summary;
-    background: blue;
+    padding: 0 3em;
 }
 
 .button-wrapper-right {
     grid-area: button-wrapper;
+    height: 4em;
+    display: flex;
+    text-align: center;
+}
 
+.button-wrapper-right>a {
+    width: 10em;
+}
+
+.jacket-wrapper {
+    grid-area: img-wrapper;
+    position: relative;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 300px;
+    height: 350px;
+    border-radius: .75em;
+    padding: 1em;
+}
+
+.jacket-wrapper>img {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 250px;
+}
+
+.jacket-wrapper>p {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    background: var(--secondary-cta);
+    padding: .25em .75em;
+    border-radius: 5em;
 }
 
 @media screen and (width <=1280px) {
@@ -70,6 +97,5 @@ main {
             "footer";
         grid-template-rows: auto 1fr calc(350px + 2em) auto;
         grid-template-columns: 1fr;
-        overflow: hidden;
     }
 }
