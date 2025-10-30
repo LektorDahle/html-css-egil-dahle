@@ -76,50 +76,53 @@
             <h1>Contact info</h1>
             <form>
                 <div>
-                    <label>
+                    <label for="firstName">
                         <p>First Name*</p>
                     </label>
-                    <input type="entry">
+                    <input type="text" name="firstName">
                 </div>
                 <div>
-                    <label>
+                    <label for="lastName">
                         <p>Last Name*</p>
                     </label>
-                    <input type="entry">
+                    <input type="text" name="lastName">
                 </div><br>
                 <div>
-                    <label>
+                    <label for="email">
                         <p>Email*</p>
                     </label>
-                    <input type="entry">
+                    <input type="email" name="email">
                 </div>
                 <br>
                 <br>
                 <div>
-                    <label>
-                        <p>Contry*</p>
+                    <label for="country">
+                        <p>Country*</p>
                     </label>
-                    <input type="entry">
+                    <input type="text" name="country">
                 </div>
                 <div>
-                    <label>
+                    <label for="phoneNumber">
                         <p>Phone Number</p>
                     </label>
-                    <input type="entry">
+                    <input type="tel" name="phoneNumber">
                 </div><br>
                 <div>
-                    <label>
+                    <label for="postalCode">
                         <p>Postal Code*</p>
                     </label>
-                    <input type="entry">
+                    <input inputmode="numeric"  pattern="[0-9]*" name="postalCode">
                 </div>
                 <div>
-                    <label>
+                    <label for="streetAddress">
                         <p>Street Address*</p>
                     </label>
-                    <input type="entry">
+                    <input type="entry" name="streetAddress">
                 </div>
             </form>
+        </section>
+        <section class="order-summary">
+        input
         </section>
     </main>
     <footer>

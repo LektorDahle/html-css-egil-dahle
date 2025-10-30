@@ -17,7 +17,7 @@
     color-scheme: light dark;
     --text-color-dark: #e8fdff;
     --background-color-dark: #0a1d24;
-    --footer-bg-dark: #c7a473;
+    --footer-bg-dark: #0a1d24;
     --bg-tint-color-dark: #0b141680;
 
     --text-color: var(--text-color-light);
@@ -68,4 +68,11 @@ p {
     color: var(--text-color);
     margin: 2em 0;
     line-height: 1.5;
+}
+
+input {
+    color: var(--text-color);
+    font-family: var(--font-paragraph);
+    font-weight: var(--font-paragraph-weight);
+    font-style: var(--font-paragraph-style);
 }

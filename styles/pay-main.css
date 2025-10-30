@@ -1,27 +1,56 @@
-main{
-    padding: 2em;
-    display: flex;
-    justify-content: center;
+main {
+    display: grid;
+    grid-template-areas:
+        "contact-info summary"
+        "contact-info to-payment";
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: auto 300px;
+    padding: 2em clamp(0.2em, 10vw, 7em);
+    gap: 1em;
 }
 
-.payment-contact-info{
+.payment-contact-info {
+    grid-area: contact-info;
     background: var(--background-color);
-    width: auto;
     display: flex;
     flex-direction: column;
-    padding: 1em;
+    padding: 2em;
+    line-height: 0;
+    border-radius: .5em;
+    border: 1px solid var(--text-color);
+    box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
 }
 
-.payment-contact-info > form > div {
-  display: inline-block;
+.payment-contact-info div {
+    display: inline-block;
+    margin: 0 1em 0 0;
 }
 
-.payment-contact-info > form > div>p {
-  padding: 0;
-  margin: 0;
+
+.payment-contact-info p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    line-height: 1;
 }
 
-.payment-contact-info > form > div>input {
-  padding: 0;
-  margin: 0;
+.payment-contact-info input {
+    height: 2em;
+    padding: 0 0.5em;
+    color: var(--text-color);
+    background: var(--background-color);
+    border: 1px solid var(--text-color);
+    border-radius: 0.5em;
+}
+
+.order-summary {
+    grid-area: summary;
+    background: var(--background-color);
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    line-height: 0;
+    border-radius: .5em;
+    border: 1px solid var(--text-color);
+    box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
+
 }
