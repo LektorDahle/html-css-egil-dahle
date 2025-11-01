@@ -99,12 +99,12 @@ main {
     }
 
     main {
-    grid-template-areas:
-        "img-wrapper "
-        "product-summary"
-        "button-wrapper";
-    grid-template-rows: auto auto auto;
-    grid-template-columns: auto;
-    padding: 0.5em;
-}
+        grid-template-areas:
+            "img-wrapper "
+            "product-summary"
+            "button-wrapper";
+        grid-template-rows: auto auto auto;
+        grid-template-columns: auto;
+        padding: 0.5em;
+    }
 }

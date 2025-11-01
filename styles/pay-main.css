@@ -9,7 +9,8 @@ main {
     gap: 1em;
 }
 
-.payment-contact-info {
+.payment-contact-info,
+.payment-billing-info {
     grid-area: contact-info;
     background: var(--background-color);
     display: flex;
@@ -21,18 +22,23 @@ main {
     box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
 }
 
-.payment-contact-info div {
+.payment-billing-info,
+.summary-hidden {
+    display: none;
+}
+
+.form-item {
     display: inline-block;
     margin: 0 1em 0 0;
 }
 
-.payment-contact-info p {
+form p {
     padding-bottom: 0;
     margin-bottom: 0;
     line-height: 1;
 }
 
-.payment-contact-info input {
+form input {
     height: 2em;
     padding: 0 0.5em;
     color: var(--text-color);
@@ -76,12 +82,17 @@ main {
     justify-content: right;
 }
 
-.to-payment-info {
+.to-payment-info,
+.to-payment-summary {
     grid-area: to-payment;
     display: flex;
     flex-direction: column;
     padding: 0 1em;
     line-height: 1.2;
+}
+
+.to-payment-summary {
+    display: none;
 }
 
 .progress-bar svg {
@@ -112,13 +123,39 @@ main {
 }
 
 #to-billing-button {
-    position: absolute;
-    width: 100%;
-    height: 100%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    appearance: none;
-    -webkit-appearance: none;
-    cursor: pointer;
+}
+
+:root:has(#to-billing-button:checked) {
+
+    .to-payment-info,
+    .payment-contact-info {
+        display: none;
+    }
+
+    .to-payment-summary,
+    .payment-billing-info {
+        display: flex;
+    }
+}
+
+:root:has(#to-summary-button:checked) {
+
+    .to-payment-summary,
+    .payment-billing-info {
+        display: none;
+    }
+
+    main {
+        grid-template-areas:
+            "summary";
+        grid-template-rows: auto;
+        grid-template-columns: auto;
+    }
+
+    .summary-hidden {
+        display: inline;
+    }
 }

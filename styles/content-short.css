@@ -1,4 +1,3 @@
-
 .content-short {
     position: relative;
     flex-grow: 0;
@@ -29,7 +28,7 @@
     border-radius: 5em;
 }
 
-.content-short>div{
+.content-short>div {
     position: absolute;
     bottom: 5%;
     right: 10%;
