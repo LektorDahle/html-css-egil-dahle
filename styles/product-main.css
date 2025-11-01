@@ -96,9 +96,8 @@ aside h2{
         grid-template-areas:
             "header"
             "main"
-            "aside"
             "footer";
-        grid-template-rows: auto 1fr calc(350px + 2em) auto;
+        grid-template-rows: auto 1fr auto;
         grid-template-columns: 1fr;
     }
 
