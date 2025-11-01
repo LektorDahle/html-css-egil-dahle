@@ -1,4 +1,4 @@
-# LektorDahle.github.io
+# CA for HTML and CSS FED 1
 
 ## Overview over the files
 ![Diagram](_docs/resources/repo-file-structure.svg)
