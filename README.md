@@ -4,6 +4,9 @@
 ![Diagram](_docs/resources/repo-file-structure.svg)
 ## Inspirations
 
+MDN documentation has been used extensively throughout this project to understand and implement many of the features on this page. It is therefore not possible to distinguish which parts were created with help from MDN or to recall exactly when it was used.
+[https://developer.mozilla.org/en-US/][(https://en.wikipedia.org/wiki/IPhone_(1st_generation)](https://developer.mozilla.org/en-US/)) 
+
 **Book:** CSS in Depth by Keith J. Grant (ISBN:978-1-61729-345-0)
 
 **Book:** UI/UX Design for Professionals by Sharanpreet Kaur (ISBN:978-93-481073-8-1)
