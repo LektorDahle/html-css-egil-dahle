@@ -95,8 +95,11 @@ form input {
     display: none;
 }
 
-.progress-bar svg {
+.progress-bar img {
     width: 100%;
+}
+.progress-bar{
+    padding: 1em 0;
 }
 
 .billing-button-wrapper {

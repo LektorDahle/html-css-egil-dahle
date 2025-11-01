@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="114.23308mm"
+   height="39.946369mm"
+   viewBox="0 0 114.23307 39.946369"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="payment-progress-billing-darkmode.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.7743996"
+     inkscape:cx="220.58827"
+     inkscape:cy="74.610737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="131"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <path
+     d="m 16.958959,-3.2e-4 a 10.44422,10.44422 0 0 0 -10.443807,10.44433 10.44422,10.44422 0 0 0 10.443807,10.4438 10.44422,10.44422 0 0 0 9.639205,-6.42234 h 9.032007 13.2271 a 10.44422,10.44422 0 0 0 9.63869,6.42234 10.44422,10.44422 0 0 0 9.63869,-6.42234 h 8.85579 l 6.91947,-8.04344 h -15.77526 a 10.44422,10.44422 0 0 0 -9.63869,-6.42235 10.44422,10.44422 0 0 0 -9.63869,6.42235 H 42.549645 26.598164 A 10.44422,10.44422 0 0 0 16.958959,-3.2e-4 Z"
+     style="fill:#a4f93c;stroke-width:0.264583;stroke-linecap:round;paint-order:markers stroke fill"
+     id="path26" />
+  <path
+     d="M 16.95897,-1e-5 A 10.44422,10.44422 0 0 0 6.515163,10.44432 10.44422,10.44422 0 0 0 16.95897,20.88813 10.44422,10.44422 0 0 0 26.598174,14.46578 h 22.259107 a 10.44422,10.44422 0 0 0 9.63869,6.42235 10.44422,10.44422 0 0 0 9.63868,-6.42235 h 22.2591 A 10.44422,10.44422 0 0 0 100.03295,20.88813 10.44422,10.44422 0 0 0 110.47676,10.44432 10.44422,10.44422 0 0 0 100.03295,-1e-5 10.44422,10.44422 0 0 0 90.393751,6.42234 h -22.2591 A 10.44422,10.44422 0 0 0 58.495971,-1e-5 10.44422,10.44422 0 0 0 48.857281,6.42234 H 26.598174 A 10.44422,10.44422 0 0 0 16.95897,-1e-5 Z"
+     style="fill:none;stroke:#e8fdff;stroke-width:0.264583;stroke-linecap:round;paint-order:markers stroke fill"
+     id="path5-5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0a3641;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="16.909798"
+     y="31.955935"
+     id="text6-5"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#0a3641"
+       x="16.909798"
+       y="31.955935"
+       id="tspan7-1">Contact</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#0a3641"
+       x="16.909798"
+       y="39.01149"
+       id="tspan8-7">Information</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14.1111px;line-height:1;font-family:Ruda;-inkscape-font-specification:'Ruda, Normal';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e8fdff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="13.304413"
+     y="14.945345"
+     id="text5-1"><tspan
+       id="tspan5-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';fill:#e8fdff;stroke:none;stroke-width:0.264583"
+       x="13.304413"
+       y="14.945345">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0a1d24;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="58.446571"
+     y="32.111176"
+     id="text10-5"><tspan
+       id="tspan10-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;stroke-width:0.264583;fill:#0a1d24"
+       x="58.446571"
+       y="32.111176">Billing</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;stroke-width:0.264583;fill:#0a1d24"
+       x="58.446571"
+       y="39.166733"
+       id="tspan11-7">Information</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0a1d24;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="58.552414"
+     y="15.030016"
+     id="text9-6"><tspan
+       id="tspan9-1"
+       style="stroke-width:0.264583;fill:#0a1d24"
+       x="58.552414"
+       y="15.030016">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0a3641;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="100.20915"
+     y="14.94536"
+     id="text12-4"><tspan
+       id="tspan12-2"
+       style="stroke-width:0.264583;fill:#0a3641"
+       x="100.20915"
+       y="14.94536">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0a3641;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     x="99.926926"
+     y="31.416185"
+     id="text13-3"><tspan
+       id="tspan13-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;stroke-width:0.264583;fill:#0a3641"
+       x="99.926926"
+       y="31.416185">Order</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;stroke-width:0.264583;fill:#0a3641"
+       x="99.926926"
+       y="38.471741"
+       id="tspan14-2">Summary</tspan></text>
+</svg>
