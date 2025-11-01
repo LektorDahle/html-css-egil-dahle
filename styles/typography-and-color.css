@@ -41,10 +41,18 @@
 }
 
 :root:has(#theme-toggle:checked) {
+    .light-theme {
+        display: none;
+    }
     --text-color: var(--text-color-dark);
     --background-color: var(--background-color-dark);
     --footer-bg: var(--footer-bg-dark);
     --bg-tint-color: var(--bg-tint-color-dark);
+}
+:root:has(#theme-toggle:not(:checked)) {
+    .dark-theme {
+        display: none;
+    }
 }
 
 h1,

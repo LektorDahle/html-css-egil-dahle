@@ -14,7 +14,7 @@ header {
     width: auto;
 }
 
-.logo-wrapper>svg {
+.logo-wrapper img {
     height: clamp(5rem, 22vw, 8rem);
 }
 
