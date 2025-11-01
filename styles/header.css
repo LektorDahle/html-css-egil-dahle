@@ -123,9 +123,9 @@ input:checked+.slider:before {
     position: relative;
 }
 
-#hamburger-menu>svg {
+#hamburger-menu img {
     display: block;
-    height: 3em;
+    height: clamp(44px, 15vw, 3em);
 }
 
 :root:has(#navigation-menu-wrapper:checked) {
