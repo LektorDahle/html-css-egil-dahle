@@ -51,7 +51,6 @@ main {
 
 .button-wrapper-right {
     grid-area: button-wrapper;
-    height: 4em;
     display: flex;
     text-align: center;
 }

@@ -105,6 +105,10 @@ main {
     transform: translate(-50%, -50%);
 }
 
+.billing-button-wrapper>h2:hover {
+    background: var(--main-cta);
+}
+
 #to-billing-button {
     position: absolute;
     width: 100%;

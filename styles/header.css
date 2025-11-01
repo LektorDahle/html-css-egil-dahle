@@ -43,10 +43,22 @@ li>a {
     text-decoration: none;
 }
 
+li > a:hover {
+     background-image: radial-gradient(
+        ellipse at center,
+        color-mix(in srgb, var(--text-color), transparent 70%) 0%,
+        transparent 80%
+    );
+    background-repeat: no-repeat;
+    background-size: 80% 0.25em;
+    background-position: 50% 90%;     
+}
+
 li>a svg {
     display: block;
     height: 1.2em;
 }
+
 
 .light-dark-switch-wrapper {
     user-select: none;
