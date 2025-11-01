@@ -97,4 +97,14 @@ main {
         grid-template-rows: auto 1fr calc(350px + 2em) auto;
         grid-template-columns: 1fr;
     }
+
+    main {
+    grid-template-areas:
+        "img-wrapper "
+        "product-summary"
+        "button-wrapper";
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto;
+    padding: 0.5em;
+}
 }
