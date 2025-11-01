@@ -16,7 +16,7 @@ main {
     flex-direction: column;
     padding: 2em;
     line-height: 0;
-    border-radius: .5em;
+    border-radius: var(-border-radius);
     border: 1px solid var(--text-color);
     box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
 }
@@ -38,7 +38,7 @@ main {
     color: var(--text-color);
     background: var(--background-color);
     border: 1px solid var(--text-color);
-    border-radius: 0.5em;
+    border-radius: var(-border-radius);
 }
 
 .order-summary {
@@ -48,7 +48,7 @@ main {
     flex-direction: column;
     padding: 1em;
     line-height: 1.2;
-    border-radius: .5em;
+    border-radius: var(-border-radius);
     border: 1px solid var(--text-color);
     box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
 }
@@ -93,12 +93,12 @@ main {
     width: 100%;
     height: 3em;
     background: var(--secondary-cta);
-    border-radius: 0.5em;
+    border-radius: var(-border-radius);
 }
 
 .billing-button-wrapper h2 {
     background: var(--secondary-cta);
-    border-radius: 0.5em;
+    border-radius: var(-border-radius);
     position: absolute;
     top: 50%;
     left: 50%;
