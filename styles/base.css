@@ -13,3 +13,18 @@ body {
     grid-template-rows: auto 1fr auto;
     background-color: var(--background-color);
 }
+
+/* Designing the visuals of buttons */
+/* (Not included the nav elements or light/dark) */
+.button-style-main {
+    background: var(--main-cta);
+    padding: .75em 1em;
+    color: var(--text-color);
+    border-radius: var(--border-radius);
+    border: none;
+}
+
+.button-style-main:hover {
+    background: var(--secondary-cta);
+    color: var(--background-color);
+}

@@ -19,10 +19,10 @@
     color-scheme: light dark;
 
     /* Light theme colors*/
-    --bg-tint-color-light: #fffdeda7;
     --text-color-light: #0a3641;
     --background-color-light: #fffded;
     --footer-bg-light: #fce762;
+    --bg-tint-color-light: #fffdeda7;
 
     /* Dark */
     --text-color-dark: #e8fdff;
