@@ -24,7 +24,7 @@ footer>div {
     align-content: center;
 }
 
-.logo-footer>svg {
-    height: clamp(6rem, 20vw, 7rem);
+.logo-footer img {
+    height: clamp(6rem, 20vw, 8rem);
     padding: .5em;
 }
