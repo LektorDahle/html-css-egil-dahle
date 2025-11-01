@@ -60,7 +60,7 @@ h6 {
     color: var(--text-color);
 }
 
-p {
+p, th, td {
     font-size: 1rem;
     font-family: var(--font-paragraph);
     font-weight: var(--font-paragraph-weight);
