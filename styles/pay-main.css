@@ -16,6 +16,8 @@ main {
     display: flex;
     flex-direction: column;
     padding: 2em;
+    justify-content: center;
+    align-items: center;
     line-height: 0;
     border-radius: var(--border-radius);
     box-shadow: 2px 3px 8px var(--drop-shadow-color);
@@ -32,14 +34,8 @@ form {
 
 .form-item {
     display: inline-block;
-    margin: 0 1em 0 0;
 }
 
-form p {
-    padding-bottom: 0;
-    margin-bottom: 0;
-    line-height: 1;
-}
 
 form input {
     height: 2em;
@@ -48,6 +44,7 @@ form input {
     background: var(--background-color);
     border: 1px solid var(--text-color);
     border-radius: var(--border-radius);
+    line-height: 1;
 }
 
 .order-summary {
