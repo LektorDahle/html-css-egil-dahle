@@ -19,7 +19,7 @@ main {
     line-height: 0;
     border-radius: var(--border-radius);
     border: 1px solid var(--text-color);
-    box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
+    box-shadow: 2px 3px 8px var(--drop-shadow-color);
 }
 
 .payment-billing-info,
@@ -60,7 +60,7 @@ form input {
     line-height: 1.2;
     border-radius: var(--border-radius);
     border: 1px solid var(--text-color);
-    box-shadow: 2px 3px 8px color-mix(in srgb, var(--text-color), transparent 50%);
+    box-shadow: 2px 3px 8px var(--drop-shadow-color);
 }
 
 .order-item {

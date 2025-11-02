@@ -38,6 +38,7 @@
     --background-color: var(--background-color-light);
     --footer-bg: var(--footer-bg-light);
     --bg-tint-color: var(--bg-tint-color-light);
+    --drop-shadow-color: color-mix(in srgb, var(--background-color-dark), transparent 50%);
 }
 
 :root:has(#theme-toggle:checked) {
