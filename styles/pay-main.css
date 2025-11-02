@@ -32,6 +32,10 @@ form {
     margin: 2em 0;
 }
 
+.form-wrapper{
+    max-width: 25rem;
+}
+
 .form-item {
     display: inline-block;
 }
